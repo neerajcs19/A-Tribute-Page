@@ -1,0 +1,28 @@
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.steve-img {
+    height: 285px;
+    width: 245px;
+}
+
+.footer-section {
+    color: white;
+    background-color: black;
+}
+
+.h2-heading {
+    font-family: Times, serif;
+    font-size: 48px;
+}
+
+.para-footer {
+    color: white;
+    background-color: black;
+    font-family: Times, serif;
+    font-size: 19.2px;
+    align-self: center;
+}
